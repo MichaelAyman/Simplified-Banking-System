@@ -1,0 +1,7 @@
+﻿  Simple_Banking_Systemcpp.cpp
+C:\Users\asus\Desktop\Simple Banking System\Simple Banking System\Simple_Banking_Systemcpp.cpp(29,19): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\asus\Desktop\Simple Banking System\Simple Banking System\Simple_Banking_Systemcpp.cpp(44,18): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\asus\Desktop\Simple Banking System\Simple Banking System\Simple_Banking_Systemcpp.cpp(48,9): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\asus\Desktop\Simple Banking System\Simple Banking System\Simple_Banking_Systemcpp.cpp(59,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\asus\Desktop\Simple Banking System\Simple Banking System\Simple_Banking_Systemcpp.cpp(64,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Simple Banking System.vcxproj -> C:\Users\asus\Desktop\Simple Banking System\x64\Debug\Simple Banking System.exe
